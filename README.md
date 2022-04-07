@@ -10,9 +10,23 @@ As you increase user privacy, the convenience of some sites may reduce.
 I will detail how much of an impact each extension and change makes so
 you can choose for yourself.
 
+## Contents
+* Extensions
+  * Extensions that I have enabled
+    * Privacy
+    * Bypassing Paywalls
+    * Misc
+  * Extensions I have disabled
+* Firefox about:config changes
+* Other privacy tips
+
 ---
 
 # Extensions
+NOTE: For all these extensions I will just be talking about extensions
+that I have on Firefox.  Firefox is the best mainstream browser for 
+privacy, and just overall IMO.  Chrome, Edge, Brave, etc, are all far
+worse in terms of privacy, and I would recommend against using them.
 ## Extensions that I have enabled
 ### Privacy
 #### ClearURLs
@@ -149,6 +163,8 @@ pages, and blocking ads!
 
 https://github.com/gorhill/uBlock#ublock-origin
 
+---
+
 ### Bypassing paywalls
 #### Bypass Paywalls Clean
 Just as the name implies, it bypasses paywalls.  There is a very large
@@ -171,6 +187,8 @@ https://github.com/gorhill/uBlock#ublock-origin
 Unpaywall legally gets you the full text of research papers.
 
 https://unpaywall.org/products/extension
+
+---
 
 ### Misc
 #### Buster: Captcha solver for humans
@@ -268,6 +286,7 @@ from being used against you.
 
 https://universal-bypass.org/
 
+---
 
 ## Extensions I have disabled
 Bitwarden - I've heard this is a good cloud password manager, but I don't
