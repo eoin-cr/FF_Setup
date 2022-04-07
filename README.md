@@ -219,6 +219,16 @@ I noticed that often in my search results, the same few annoying spam websites
 would come up occasionally.  This extension allows you to remove certain sites
 you don't want to see from your search results quickly and easily.
 
+Here are the domains I have hidden in case you're interested
+* solveforum.com - fake stackoverflow, very annoying in that it
+says certain questions are answered when they aren't.  Just uses 
+a fuck ton of SEO to get views.
+* javaer101.com - same as previous
+* pvillage.com - same as previous
+* readallbooks.org - fake free pdf site
+* geeksforgeeks.org - their stuff isn't great and I'm not a fan of how it
+requires signing in just to view stuff now
+
 https://github.com/pistom
 
 #### Firefox color
